@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pragati Sharma 👋 </h1>
 
 <p align="center">
-  <img src="https://in.pinterest.com/pin/630011435411884185/" alt="Banner" />
+  <img src="Beige Modern Elegant Personal LinkedIn Banner.png" alt="Banner" />
 </p>
 
 ## About me
