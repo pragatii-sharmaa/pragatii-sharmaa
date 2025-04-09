@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pragati Sharma 👋 </h1>
 
 <p align="center">
-  <img src="[https://your-banner-link.com/banner.png](https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif)" alt="Banner" />
+  <img src="https://in.pinterest.com/pin/630011435411884185/" alt="Banner" />
 </p>
 
 ## About me
