@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Pragati Sharma 👋 </h1>
 
 <p align="center">
-  <img src="Beige Modern Elegant Personal LinkedIn Banner.png" alt="Banner" />
+  <img src="Banner Github.png" alt="Banner" />
 </p>
 
 ## About me
