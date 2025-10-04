@@ -54,7 +54,7 @@ Feel free to reach out, I’d love to connect and collaborate :)
 <p align="left">
   <a href="[https://www.linkedin.com/in/pragati-sharma-56151b28a/]"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:pragatisharma221204@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/pragatii_hmm/"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+ 
 </p>
 
 
